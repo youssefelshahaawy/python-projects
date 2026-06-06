@@ -1,0 +1,26 @@
+# ---- Byte-compiled / cache ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---- Virtual environments ----
+.venv/
+**/.venv/
+venv/
+env/
+ENV/
+
+# ---- IDE / editor settings ----
+.idea/
+.vscode/
+
+# ---- Course materials (copyrighted - not redistributed) ----
+Docs/
+
+# ---- Secrets & local runtime data ----
+.env
+**/data.json
+
+# ---- OS clutter ----
+.DS_Store
+Thumbs.db

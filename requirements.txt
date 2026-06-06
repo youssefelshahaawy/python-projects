@@ -1,0 +1,4 @@
+colorgram.py
+pandas
+prettytable
+requests
