@@ -121,9 +121,6 @@ python-projects/
 
 These projects are based on the **_100 Days of Code_ Python course** by **Dr. Angela Yu (The App Brewery)**. The implementations in this repository are my own work.
 
-## 📜 License
-
-Released under the [MIT License](./LICENSE).
 
 ---
 
