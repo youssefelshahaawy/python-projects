@@ -9,8 +9,6 @@ _From command-line games and OOP, through Turtle graphics and Tkinter GUIs, to l
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Projects](https://img.shields.io/badge/Projects-33-success)
 ![Last commit](https://img.shields.io/github/last-commit/youssefelshahaawy/python-projects)
-![Repo size](https://img.shields.io/github/repo-size/youssefelshahaawy/python-projects)
-![Made with](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
 </div>
 
